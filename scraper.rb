@@ -1,5 +1,3 @@
-#!/bin/env ruby
-# encoding: utf-8
 require 'scraperwiki'
 require 'twitter_list'
 
